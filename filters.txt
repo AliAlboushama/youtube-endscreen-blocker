@@ -1,0 +1,4 @@
+www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com##.ytp-show-tiles
+www.youtube.com##.ytp-cards-teaser
