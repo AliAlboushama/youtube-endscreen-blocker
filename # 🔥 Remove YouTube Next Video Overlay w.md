@@ -23,7 +23,6 @@ If you're using [uBlock Origin](https://github.com/gorhill/uBlock), you can bloc
 4. Paste the following custom filters:
 
    ```plaintext
-   www.youtube.com###related
    www.youtube.com##.ytp-ce-element
    www.youtube.com##.ytp-endscreen-content
    www.youtube.com##.ytp-show-tiles
